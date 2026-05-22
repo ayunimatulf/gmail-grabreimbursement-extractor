@@ -1,0 +1,35 @@
+# credentials
+token.json
+cred.json
+
+# generated outputs
+*.csv
+*.zip
+*.pdf
+20*/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# virtual env
+.venv/
+venv/
+env/
+
+# streamlit
+.streamlit/
+
+# os
+.DS_Store
+Thumbs.db
+
+# ide
+.vscode/
+.idea/
+
+# logs
+*.log
